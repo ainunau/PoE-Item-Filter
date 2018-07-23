@@ -1,4 +1,4 @@
-# PoE-Item-Filter
+# PoE Item Filter
 My Path of Exile item filter
 
 Filter based on most popular filters out there with some visual customisation.
@@ -8,3 +8,7 @@ Filter based on most popular filters out there with some visual customisation.
 etc.
 
 Currently version 3.1.0.1 - for Path of Exile 3.1.x - Incursion League
+
+Variants:
+- standard levelling variant (non-class specific)
+- maping variant (non-class specific = SSF)
