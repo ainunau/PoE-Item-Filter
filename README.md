@@ -7,7 +7,7 @@ Filter based on most popular filters out there with some visual customisation.
 - NeverSink's Filter
 etc.
 
-Currently version 3.1.0.1 - for Path of Exile 3.1.x - Incursion League
+Currently version 3.3.0.1 - for Path of Exile 3.3.x - Incursion League
 
 Variants:
 - standard levelling variant (non-class specific)
